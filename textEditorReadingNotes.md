@@ -8,10 +8,18 @@ There's seemingly endless text editors so to simplify, let's discuss the differe
 - often not very user friendly.
 - "comes with the kit" meaning, often comes along with the machine
 
-**code specific**
+**Code Specific**
 - often third party.
 - comes with bonus tools and quality of life improvements like syntax highlighters, etc.
 
 **IDE**
+- stands for "Integrated Develeopment Environment"
+- combines many pros of both kinds of text editors. 
+- provides many common developer tools in one convenient place.
 
- 'dragonfly'
+
+**Basic Text Editor Functions**
+  text editors typically parse commands left to right. These commands are text based and follow language specific syntax. some basic commands for Linux are
+  - -ls to list files
+  - -pwd for " print working directory" or in english, "where am I?" 
+ the list goes on and has many different variations and sub functions.
