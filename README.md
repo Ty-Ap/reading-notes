@@ -1,9 +1,9 @@
 # reading-notes
 
 **Table Of Contents** 
-1. Growth Mindset Synopsis
+1. [Growth Mindset Synopsis](https://github.com/Ty-Ap/reading-notes.git)
 2. Markdown Notes
-3. Text Editor Mockup
+3. [Text Editor Mockup](https://github.com/Ty-Ap/reading-notes/blob/main/textEditorReadingNotes.md)
 
  My markdown style reading notes journal 
  
