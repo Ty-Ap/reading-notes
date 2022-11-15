@@ -1,4 +1,10 @@
 # reading-notes
+
+**Table Of Contents** 
+1. Growth Mindset Synopsis
+2. Markdown Notes
+3. Text Editor Mockup
+
  My markdown style reading notes journal 
  
  Hi! I'm Ty, and I love Language. Find me on [Github](https://github.com/Ty-Ap/Ty-Ap).
