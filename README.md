@@ -17,6 +17,8 @@ This is a collection of my notes and shortcuts
 
 -[.cssnotes](https://github.com/Ty-Ap/reading-notes/blob/main/102/cssnotes.md)
 
+-[javascript Notes]()
+
 2.[201](https://github.com/Ty-Ap/reading-notes/tree/main/201)
 
 This is a picture of my favorite drink. (london fog)
