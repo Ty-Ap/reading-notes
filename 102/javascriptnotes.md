@@ -1,4 +1,6 @@
-# javascript notesJavaScript
+# javascript notes
+
+ JavaScript
 
 from mdn.com
 
