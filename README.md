@@ -21,5 +21,7 @@ This is a collection of my notes and shortcuts
 
 2.[201](https://github.com/Ty-Ap/reading-notes/tree/main/201)
 
+-[class-01.md](https://github.com/Ty-Ap/reading-notes/blob/main/201/class1.md)
+
 This is a picture of my favorite drink. (london fog)
 ![This is a picture of my favorite drink.](https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2017/12/06034415/tower-of-london-fog-1024x681.jpeg)
