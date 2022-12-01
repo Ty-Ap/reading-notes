@@ -1,6 +1,6 @@
 # readingnotes03
 
-++Ordered and Unordered lists**
+## Ordered and Unordered lists
 
 When should you use an unordered list in your HTML document? when grouping items that dont have numerical ordering
 How do you change the bullet style of unordered list items? by using .css style commands. specifically the list-style-type  property
