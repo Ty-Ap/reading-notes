@@ -1,8 +1,13 @@
 # Readings: Object-Oriented Programming, HTML Tables
 
-Readings: Object-Oriented Programming, HTML Tables
+Explain why we need domain modeling.
+
+- Domain modeling is creating a conceptual model for a problem. we need this for proof of concept work, making code flexible and dry, etc.
 
 Why should tables not be used for page layouts?
+
+- it is rigid and has no inherent page syntax, it is harder to read, the list goes on
+
 List and describe 3 different semantic HTML elements used in an HTML table
 
 - td- this stands for table data and makes up what goes into each box or cell
